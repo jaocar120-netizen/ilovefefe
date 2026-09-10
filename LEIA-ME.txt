@@ -1,0 +1,15 @@
+PSIQUE — A BUSCA POR SI MESMA
+
+Como abrir:
+1. Extraia a pasta.
+2. Abra o arquivo index.html no navegador.
+3. As imagens ficam em /assets e já estão ligadas ao site.
+
+Arquivos:
+- index.html
+- styles.css
+- script.js
+- assets/
+
+O site funciona localmente sem servidor. A única dependência online opcional são as fontes do Google;
+se estiver sem internet, o navegador usa fontes de sistema equivalentes.
